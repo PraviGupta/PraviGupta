@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Frontend Tasks and Interns**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adarshgupta03](https://github.com/Adarshgupta03)
+- 👨‍💻 All of my projects are available at [https://github.com/PraviGupta](https://github.com/PraviGupta)
 
 - 📝 I regularly write articles on [https://androtechboypk.blogspot.com/](https://androtechboypk.blogspot.com/)
 
-- 💬 Ask me about **JavaScript, React and UI/UX**
+- 💬 Ask me about **Frontend, React and UI/UX**
 
-- 📫 How to reach me **adarshgupta73@gmail.com**
+- 📫 How to reach me **pravi.gupta7898@gmail.com**
 
 - ⚡ Fun fact **I am Funny.**
 
