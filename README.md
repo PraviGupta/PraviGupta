@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
-- 👯 I’m looking to collaborate on **Frontend Taska and Interns**
+- 👯 I’m looking to collaborate on **Frontend Tasks and Interns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarshgupta03](https://github.com/Adarshgupta03)
 
